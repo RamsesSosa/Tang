@@ -24,6 +24,8 @@ public class Main {
         for(String g : tels){
             System.out.println(g);
      
+            
+            
         if(g.startsWith("622")){
             numerosGuaymas++;
          
